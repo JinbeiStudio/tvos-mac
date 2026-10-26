@@ -1,0 +1,10 @@
+{
+  "name": "magic-remote-tv-app",
+  "private": true,
+  "description": "Packages MagicRemoteService's webOS app with this Mac as the receiver",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "@webos-tools/cli": "^3.2.6",
+    "sharp": "^0.35.5"
+  }
+}
